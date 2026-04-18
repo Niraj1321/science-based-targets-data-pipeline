@@ -23,6 +23,12 @@ This script:
 
 ---
 
+## Git clone
+
+* git clone https://github.com/Niraj1321/science-based-targets-data-pipeline.git
+
+---
+
 ## 🌐 Data Source
 
 * Download the datasets manually from:
